@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+twilio==9.2.3
+python-dotenv==1.0.1
+
+# Optional (if you’re using NLP / Hugging Face features)
+transformers==4.43.2
+torch>=2.0.0
+
+# Data handling & utilities (optional, but common)
+pandas==2.2.2
+requests==2.32.3
