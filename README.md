@@ -20,3 +20,8 @@ AI/ML Capabilities
 - **MarianMT Translation**: Multi-language support for Indian languages
 - **Profile-based Personalization**: Age-appropriate and region-specific advice
 
+
+WhatsApp Integration
+- **Twilio Integration**: Seamless WhatsApp messaging
+- **Session Management**: Persistent user profiles and conversation state
+- **Command System**: Easy-to-use text commands
